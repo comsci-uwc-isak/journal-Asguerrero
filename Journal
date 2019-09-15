@@ -1,6 +1,7 @@
-Tuesday, September 10th
+Thrusday, September 12th
 
-In today's class we  reviewed the basics of Web Development and explored how to use HTML and CSS with the help of WebStorm.
-It was interesting to see how Stylus (CSS processor), and Pug (HTML processor) can be useful for programmers to avoid problems with syntax.
-Even though I had learned in the previous days the most used tags of HTML, during class I understood how to use div, which represents a container. 
-Additionaly, I asked Dr. Ruben about the differences between JavaScript and PHP, because I am still trying to decide what programming language could be more sutible for my IA
+In today's class we continued exploring the basics of Web Development and how to use HTML and CSS with the help of WebStorm.
+We built a login-app, using two forms to register inputs from the users and two links that lead to additional sections of the WebSite.
+One of my main takeaways from this class is that examining the properties of already existing platforms can be a good starting point for WebSite developers.
+I also realized, that even though CSS will not be central for the development of the logical aspects of my IA, in order to  build a funcitonal platform
+I will need to learn more about properties such as position and margins. 
