@@ -1,7 +1,9 @@
-Thrusday, September 12th
+Monday, September 16th
 
-In today's class we continued exploring the basics of Web Development and how to use HTML and CSS with the help of WebStorm.
-We built a login-app, using two forms to register inputs from the users and two links that lead to additional sections of the WebSite.
-One of my main takeaways from this class is that examining the properties of already existing platforms can be a good starting point for WebSite developers.
-I also realized, that even though CSS will not be central for the development of the logical aspects of my IA, in order to  build a funcitonal platform
-I will need to learn more about properties such as position and margins. 
+In today's class, we continued exploring the basics of Web Development and how to use HTML and CSS with the help of WebStorm.
+We built the skeleton of an Encryption Tool. Ideally, this app will be able to output an encrypted message, using a key that the user inputs.
+As this is the third class we use HTML and CSS I am becoming more familiar with the syntax and procedures of these languages. 
+Something important I learn during the class and that I will possibly use for my IA is who to identify variables or items. 
+In case of classes = .name Example: div.row 
+In case of IDs = #name Example input#converted.column
+
