@@ -1,7 +1,5 @@
-Tuesday, September 17th
+Tuesday, September 24th
 
-In today's class, we continued exploring the basics of Web Development and how to use HTML and CSS with the help of WebStorm.
-We finished building the Encryption Tool. This time we focused on creating a program with JavaScript to encode our message.
-Even though this was my first time using this programming language, having a flowchart as a guide made it easier for me to understand everything.
-While programming I noticed that the fact that my main programming langauage is Java probably limits my ability to think about how to solve problems.
-It is a good learning opportunity to be exposed to different ways of programming 
+In today's class, we explored the basics of databases. We defined some entities and learned how to create a table using Mysql. 
+It was intersting to see how the platform automatically creates lines of code for php. I created a database called School_Valentina and a table named students
+These classes have been really useful for my IA because they complement what I am learning by myself.
