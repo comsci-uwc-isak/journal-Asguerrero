@@ -1,5 +1,39 @@
-Tuesday, September 24th
+public class test {
 
-In today's class, we explored the basics of databases. We defined some entities and learned how to create a table using Mysql. 
-It was intersting to see how the platform automatically creates lines of code for php. I created a database called School_Valentina and a table named students
-These classes have been really useful for my IA because they complement what I am learning by myself.
+	public static void main(String[] args) {
+		double [] x = {21, 33, 26, 39, 28, 32.5, 18.5, 27, 31.5, 29, 26.5, 31.5, 24, 35.5, 22.5, 25, 25.5, 19};
+		//mean
+		double sum = 0;
+		for( int y = 0; y < x.length; y++) {
+			sum = sum + x[y];
+		}
+		System.out.println("the mean is" + sum/x.length);
+	//median 
+		
+		for( int y = 0; y < x.length - 1; y++) {
+			
+			for( int z = 1; z < x.length - y; z++) {
+			if ( x[z-1] > x[z]) {
+				
+				double temp = x[z-1];
+				x[z-1] = x[z]; 
+				x[z] = temp;
+				
+			}
+		}
+		}
+		
+		
+		
+	int median = x.length/2 -1 ; 
+	
+		System.out.println("the median is " + x[median]);
+		
+		
+		int q3 =  median + (median/2);
+		int q1 =  median - (median/2) ;
+		double iqr = x[q3] - x [q1];
+		System.out.println ( "the q1 is equal to " + x [q1]);
+		System.out.println ( "the q2 is equal to " + x[q3]);
+		System.out.println ( "the iqr is equal to " + iqr);
+		
